@@ -1,0 +1,9 @@
+{
+  "200": {
+    "quantidade": "#number",
+    "usuarios": "#array"
+  },
+  "400": {
+  }
+
+}
